@@ -164,3 +164,4 @@ cython_debug/
 
 # Ramdon files
 main.py
+.vscode
